@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>myIM Scoop - Newsletters & Updates</title>
-    <script type="text/javascript" src="http://files.imss.work/assets/library/head.js/head.min.js"></script>
-    <script type="text/javascript" src="http://files.imss.work/assets/library/head.js/packageloader-mdlbootstrap.js"></script>
+    <script type="text/javascript" src="https://files.imss.work/assets/library/head.js/head.min.js"></script>
+    <script type="text/javascript" src="https://files.imss.work/assets/library/head.js/packageloader-mdlbootstrap.js"></script>
 </head>
 <body>
     <?php  include 'includes/modules/nav-f.php'; ?>
