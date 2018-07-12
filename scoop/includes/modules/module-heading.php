@@ -1,0 +1,1 @@
+<h1 style="clear:both;" class="text-center"><br><?php echo $module_heading; ?></h1><br>

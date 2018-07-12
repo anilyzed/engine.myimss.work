@@ -1,0 +1,188 @@
+{
+  "message": "Success",
+  "status": 200,
+  "result": {
+    "Result": [
+      {
+        "empname": "Animesh Bisaria",
+        "empid": "10447",
+        "date": "1961-02-06",
+        "type": "birthday"
+      },
+      {
+        "empname": "Yadu Kumar Y S",
+        "empid": "99918",
+        "date": "1970-01-01",
+        "type": "birthday"
+      },
+      {
+        "empname": "Girija K A",
+        "empid": "11131",
+        "date": "1973-02-18",
+        "type": "birthday"
+      },
+      {
+        "empname": "Kirana S",
+        "empid": "12523",
+        "date": "1991-02-05",
+        "type": "birthday"
+      },
+      {
+        "empname": "Kalyan Teja I",
+        "empid": "12842",
+        "date": "1991-02-04",
+        "type": "birthday"
+      },
+      {
+        "empname": "Rituraj Suman",
+        "empid": "12870",
+        "date": "1990-01-01",
+        "type": "birthday"
+      },
+      {
+        "empname": "Pavan Kumar Juttada",
+        "empid": "12970",
+        "date": "1991-02-05",
+        "type": "birthday"
+      },
+      {
+        "empname": "Impal N P",
+        "empid": "13125",
+        "date": "1995-02-18",
+        "type": "birthday"
+      },
+      {
+        "empname": "Rishikesh Kumar Choudhary",
+        "empid": "13147",
+        "date": "1994-02-03",
+        "type": "birthday"
+      },
+      {
+        "empname": "Vikas Kumar",
+        "empid": "13148",
+        "date": "1992-02-07",
+        "type": "birthday"
+      },
+      {
+        "empname": "Balvendar Singh Chouhan",
+        "empid": "13197",
+        "date": "1991-02-13",
+        "type": "birthday"
+      },
+      {
+        "empname": "Ponnarangan S",
+        "empid": "13224",
+        "date": "1994-02-08",
+        "type": "birthday"
+      },
+      {
+        "empname": "Prashant Sadhu Bangera",
+        "empid": "13275",
+        "date": "1990-02-15",
+        "type": "birthday"
+      },
+      {
+        "empname": "Kuhu Sahu",
+        "empid": "13294",
+        "date": "1988-02-05",
+        "type": "birthday"
+      },
+      {
+        "empname": "Abir Indra",
+        "empid": "13093",
+        "date": "1991-02-08",
+        "type": "birthday"
+      },
+      {
+        "empname": "Goutam Kumar",
+        "empid": "13343",
+        "date": "1991-02-26",
+        "type": "birthday"
+      },
+      {
+        "empname": "Sangamanath",
+        "empid": "13276",
+        "date": "2018-01-04",
+        "type": "joiningdate"
+      },
+      {
+        "empname": "Rakesh Mahuli",
+        "empid": "13277",
+        "date": "2018-01-04",
+        "type": "joiningdate"
+      },
+      {
+        "empname": "Sushma Madli",
+        "empid": "13278",
+        "date": "2018-01-04",
+        "type": "joiningdate"
+      },
+      {
+        "empname": "Rohit Srigyan",
+        "empid": "13283",
+        "date": "2018-01-16",
+        "type": "joiningdate"
+      },
+      {
+        "empname": "Shravya H G",
+        "empid": "13281",
+        "date": "2018-01-11",
+        "type": "joiningdate"
+      },
+      {
+        "empname": "Pooja Y G",
+        "empid": "3279",
+        "date": "2018-01-08",
+        "type": "joiningdate"
+      },
+      {
+        "empname": "Suraksha C M",
+        "empid": "3280",
+        "date": "2018-01-08",
+        "type": "joiningdate"
+      },
+      {
+        "empname": "Abhilash R",
+        "empid": "3282",
+        "date": "2018-01-11",
+        "type": "joiningdate"
+      },
+      {
+        "empname": "Naveen Kumar K",
+        "empid": "13286",
+        "date": "2018-01-22",
+        "type": "joiningdate"
+      },
+      {
+        "empname": "Harshavardhan Reddy K",
+        "empid": "13288",
+        "date": "2018-01-23",
+        "type": "joiningdate"
+      },
+      {
+        "empname": "Sourav Kumar Verma",
+        "empid": "13289",
+        "date": "2018-01-29",
+        "type": "joiningdate"
+      },
+      {
+        "empname": "Ajay Kumar D",
+        "empid": "13290",
+        "date": "2018-01-30",
+        "type": "joiningdate"
+      },
+      {
+        "empname": "Amruta Kulkarni",
+        "empid": "13291",
+        "date": "2018-01-30",
+        "type": "joiningdate"
+      },
+      {
+        "empname": "Sivakumar Pallipati",
+        "empid": "13285",
+        "date": "2018-01-22",
+        "type": "joiningdate"
+      }
+    ]
+  }
+}

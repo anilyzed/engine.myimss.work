@@ -1,0 +1,9 @@
+application: imsssites
+version: 1
+runtime: php55
+env: flex
+api_version: 1
+
+handlers:
+  - url:/.*
+  index.php
