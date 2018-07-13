@@ -12,10 +12,17 @@
 <body>
     <?php  include 'includes/modules/nav-f.php'; ?>
     <?php
+        error_reporting(0);
         $current_url1 = explode("?", $_SERVER['REQUEST_URI']);
         $version = explode("=", $current_url1[1]);
-        $version= $version[1];
-        $url_scoop_make_employee_details="includes/archives/samplejson-".$version.".json";
+        $version=$version[1];
+        if (!isset($version)){
+            $version=date("y").date("m");
+        }
+        date("Y-m-d",strtotime("$version"));
+        $JSONversion=date("Y-m-d",strtotime("$version"));
+        $url_scoop_make_employee_details="http://182.71.249.210:5100/scoop/getMonthlyScoopList/".$JSONversion;
+        //$url_scoop_make_employee_details="http://172.16.2.10:5100/scoop/getMonthlyScoopList/".$JSONversion;
         $url_scoop_make_updates="includes/archives/scoop-archive-".$version.".php";
     ?>
     <main class="container">
